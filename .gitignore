@@ -1,0 +1,14 @@
+/.devpanel/dumps/
+/.editorconfig
+/.gitattributes
+/.vscode/
+/composer.json
+/composer.lock
+/config/
+/LICENSE*
+/logs/*
+!/logs/.gitkeep
+/private/
+/recipes/
+/vendor/
+/web/
